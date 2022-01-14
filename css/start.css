@@ -1,0 +1,24 @@
+/*******  globale variablen ****/
+
+
+/**** Layout grid**/
+.w100 {width: 100vw;}
+.h50 {height: 50vh;}
+.w50{width: 50vw;}
+.bkgrcolor1 {background-color: darkslategrey;}
+.bkgrcolor2 {background-color: grey;}
+.bkgrcolor3 {background-color:lightpink;}
+.bkgrcolor4 {background-color: lightsteelblue;}
+
+.flex_c {display: flex;}
+
+/******Layout basic***/
+
+h1 {
+    font-size: 4vw;
+}
+
+.mother {
+    background-color: antiquewhite;
+    max-height: 20rem;
+}
