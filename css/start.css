@@ -20,5 +20,8 @@ h1 {
 
 .mother {
     background-color: antiquewhite;
-    max-height: 20rem;
+    max-height: 50rem;
 }
+.block1 {
+    object-position:  50vw;}
+
